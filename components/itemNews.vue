@@ -1,18 +1,44 @@
 <template>
   <div>
     <div :class="getClass()">
-      <div :class="isDerectionRow ? 'col-span-4' : ''">
-        <img class="object-cover" :src="image" alt="image" />
+      <div
+        :class="
+          isDerectionRow
+            ? `${
+                isFashion
+                  ? 'w-[90px] h-[90px] shrink-0'
+                  : 'w-[150px] h-[100px] shrink-0'
+              }`
+            : `${maxHeight} overflow-hidden`
+        "
+      >
+        <img
+          :class="`object-cover ${
+            isFashion
+              ? 'w-[90px] h-[90px] shrink-0'
+              : `${maxHeight} min-h-[100px] min-w-[150px]`
+          } w-full`"
+          :src="image"
+          alt="image"
+        />
       </div>
 
-      <div :class="isDerectionRow ? 'col-span-6' : ''">
+      <div
+        :class="
+          isDerectionRow
+            ? `${isFashion ? '' : ''}`
+            : `${isShowAuthor == false ? 'pt-4' : ''} ${
+                backGround != '' ? 'p-5' : ''
+              }`
+        "
+      >
         <a
           v-if="isShowAuthor == true"
           href="#"
           :class="
             isDerectionRow
-              ? 'uppercase text-[12px] block'
-              : 'uppercase text-[12px] block pt-1'
+              ? 'uppercase text-[11px] leading-5 font-semibold inline-block text-[#999] hover:text-[#222]'
+              : 'uppercase text-[11px] leading-5 font-semibold block pt-1 text-[#999] hover:text-[#222]'
           "
         >
           {{ author }}
@@ -21,12 +47,15 @@
         <a
           href="#"
           :class="
-            isDerectionRow
-              ? 'font-bold justify-start line-clamp-3 hover:text-sky-500 block'
-              : 'font-bold justify-start line-clamp-3 hover:text-sky-500 block pt-2'
+            isDerectionRow == true
+              ? `${
+                  isFashion ? '' : 'leading-5 font-bold'
+                } line-clamp-3 hover:text-sky-500`
+              : `leading-5 font-bold hover:text-sky-500 pt-2 ${backGround != '' ? 'text-[18px]' : ''} `
           "
-          >{{ title }}</a
         >
+          {{ title }}
+        </a>
       </div>
     </div>
   </div>
@@ -38,18 +67,16 @@ export default {
   props: {
     author: {
       type: String,
-      required: true,
-      default: 'abc',
+      required: false,
+      default : ''
     },
     title: {
       type: String,
       required: true,
-      default: 'abc',
     },
     image: {
       type: String,
       required: true,
-      default: 'abc',
     },
     isDerectionRow: {
       type: Boolean,
@@ -61,12 +88,34 @@ export default {
       required: false,
       default: true,
     },
+    isFashion: {
+      type: Boolean,
+      required: false,
+      default: false,
+    },
+    maxHeight: {
+      type: String,
+      required: false,
+      default: '',
+    },
+    backGround: {
+      type: String,
+      required: false,
+      default: '',
+    },
+    isTechnolory: {
+      type: Boolean,
+      required: false,
+      default: false,
+    },
   },
   methods: {
     getClass() {
       return this.isDerectionRow
-        ? 'grid grid-cols-10 gap-4'
-        : 'flex flex-col'
+        ? `flex justify-start items-start gap-x-4 ${
+            this.isTechnolory ? 'tb:flex tb:flex-col lt:flex-row' : ''
+          } ${this.backGround}`
+        : `flex flex-col ${this.backGround}`
     },
   },
 }
