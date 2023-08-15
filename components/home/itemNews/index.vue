@@ -1,7 +1,8 @@
 <template>
   <div>
     <div :class="getClass()">
-      <div
+      <a
+        href="#"
         :class="
           isDerectionRow
             ? `${
@@ -21,13 +22,13 @@
           :src="image"
           alt="image"
         />
-      </div>
+      </a>
 
       <div
         :class="
           isDerectionRow
             ? `${isFashion ? '' : ''}`
-            : `${isShowAuthor == false ? 'pt-4' : ''} ${
+            : `${isShowAuthor == false ? 'lt:pt-4 pt-2' : ''} ${
                 backGround != '' ? 'p-5' : ''
               }`
         "
@@ -51,7 +52,9 @@
               ? `${
                   isFashion ? '' : 'leading-5 font-bold'
                 } line-clamp-3 hover:text-sky-500`
-              : `leading-5 font-bold hover:text-sky-500 pt-2 ${backGround != '' ? 'text-[18px]' : ''} `
+              : `leading-5 font-bold hover:text-sky-500 pt-2 ${
+                  backGround != '' ? 'text-[18px]' : ''
+                } `
           "
         >
           {{ title }}
@@ -68,7 +71,7 @@ export default {
     author: {
       type: String,
       required: false,
-      default : ''
+      default: '',
     },
     title: {
       type: String,

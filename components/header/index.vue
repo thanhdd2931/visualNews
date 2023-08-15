@@ -8,7 +8,10 @@
         class="lt:container mmb:w-full lt:px-0 mb:px-[10px] flex justify-between items-center mx-auto h-full"
       >
         <!-- icon MENU -->
-        <div class="lt:hidden mb:block py-[10px]" @click="handleOnOffModalHeader(true)">
+        <div
+          class="lt:hidden mb:block py-[10px]"
+          @click="handleOnOffModalHeader(true)"
+        >
           <iconMenu />
         </div>
 
@@ -65,9 +68,9 @@
     <!-- title -->
 
     <div
-      class="mb:hidden container mx-auto lt:grid grid-cols-3 gap-8 pt-[35px] pb-[20px]"
+      class="mb:hidden container mx-auto lt:grid grid-cols-10 gap-8 pt-[35px] pb-[20px] leading-[1.6]"
     >
-      <div class="flex justify-center items-center gap-5">
+      <div class="flex justify-center items-center gap-5 col-span-3">
         <div class="flex-1">
           <p class="text-[#222] text-base font-bold text-right">John Doe</p>
           <p class="text-[#999] text-[12px] justify-end text-right">
@@ -85,14 +88,14 @@
         </div>
       </div>
 
-      <div class="flex flex-col justify-between items-center">
-        <span class="font-semibold text-2xl text-[#222] mb-2"
-          >VISUALNEWSPRO</span
-        >
-        <span class="text-xl text-red-600">WP NEWSPAPER THEME</span>
+      <div class="flex flex-col justify-between items-center col-span-4">
+        <span class="font-semibold text-[21.8124px] text-[#222] mb-2"
+          >VISUALNEWSPRO
+        </span>
+        <span class="text-[17px] text-red-600">WP NEWSPAPER THEME</span>
       </div>
 
-      <div class="flex justify-center items-center gap-5">
+      <div class="flex justify-center items-center gap-5 col-span-3">
         <div class="h-[50px] w-[50px] rounded-full overflow-hidden">
           <img
             class="object-contain"
@@ -118,23 +121,24 @@
       <div
         class="lt:container lt:px-0 mb:px-[10px] mx-auto flex justify-between items-center relative"
       >
-        <span class="mb:block lt:hidden uppercase font-semibold text-[20px] py-4"
+        <span
+          class="mb:block lt:hidden uppercase font-semibold text-[20px] py-4"
           >visualnews pro</span
         >
         <div class="hidden lt:flex flex-wrap justify-start items-center gap-4">
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >HOME</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >ADVERTISING</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600 flex justify-center items-center relative group"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600 flex justify-center items-center relative group"
           >
             <span>BLOGGING</span>
             <iconArrowDown :width="12" :height="12" />
@@ -152,58 +156,61 @@
           </a>
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >BUSINESS</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >FASHION</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >FOOD</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >LIFESTYLE</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >MARKETING</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >SEO</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >SOCIAL MEDIA</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >TECH</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >TRAVEL</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[16px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
             >WEB DESIGN</a
           >
         </div>
 
         <div class="text-black flex items-center gap-5">
-          <div class="lt:hidden mmb:block py-[10px]" @click="handleOnOffModalNavbar(true)">
+          <div
+            class="lt:hidden mmb:block py-[10px]"
+            @click="handleOnOffModalNavbar(true)"
+          >
             <iconMenu />
           </div>
           <div class="cursor-pointer">
@@ -214,7 +221,16 @@
                 :height="16"
               />
             </div>
-            <div class="hover:text-sky-600" @click="isShowSearch = false">
+            <!-- icon close / search -->
+            <div
+              class="hover:text-sky-600"
+              @click="
+                () => {
+                  isShowSearch = false
+                  searchValue = ''
+                }
+              "
+            >
               <iconClose v-if="isShowSearch == true" :width="16" :height="16" />
             </div>
             <div
@@ -252,8 +268,14 @@
     </div>
 
     <!-- modal -->
-    <modalHeader v-if="isShowModal.header == true" @handle-on-off-modal-header="handleOnOffModalHeader"/>
-    <modalNavbar v-if="isShowModal.navbar == true" @handle-on-off-modal-navbar="handleOnOffModalNavbar"/>
+    <modalHeader
+      v-if="isShowModal.header == true"
+      @handle-on-off-modal-header="handleOnOffModalHeader"
+    />
+    <modalNavbar
+      v-if="isShowModal.navbar == true"
+      @handle-on-off-modal-navbar="handleOnOffModalNavbar"
+    />
   </div>
 </template>
 
@@ -278,14 +300,14 @@ const input = ref(null)
 
 const isShowModal = ref({
   header: false,
-  navbar: false
+  navbar: false,
 })
 
-function handleOnOffModalHeader(status){
-  isShowModal.value.header = status;
+function handleOnOffModalHeader(status) {
+  isShowModal.value.header = status
 }
-function handleOnOffModalNavbar(status){
-  isShowModal.value.navbar = status;
+function handleOnOffModalNavbar(status) {
+  isShowModal.value.navbar = status
 }
 
 const deleteSearchValue = () => {
