@@ -16,11 +16,11 @@
         </div>
 
         <div class="lt:flex mb:hidden justify-start items-center gap-4">
-          <a href="#" class="font-semibold block py-[10px]">About</a>
-          <a href="#" class="font-semibold block py-[10px]">Contact</a>
+          <a href="#" class="font-medium block py-[10px]">About</a>
+          <a href="#" class="font-medium block py-[10px]">Contact</a>
           <a
             href="#"
-            class="font-semibold py-[10px] flex justify-center items-center relative group"
+            class="font-medium py-[10px] flex justify-center items-center relative group"
           >
             <span>Full Width Page</span>
             <iconArrowDown :width="12" :height="12" />
@@ -32,8 +32,8 @@
               <p class="py-[10px]">Sub Menu 3</p>
             </div>
           </a>
-          <a href="#" class="font-semibold block py-[10px]">Submit Article</a>
-          <a href="#" class="font-semibold block py-[10px]">Buy Theme</a>
+          <a href="#" class="font-medium block py-[10px]">Submit Article</a>
+          <a href="#" class="font-medium block py-[10px]">Buy Theme</a>
         </div>
 
         <div class="flex justify-center items-center gap-4 text-white">
@@ -125,7 +125,7 @@
           class="mb:block lt:hidden uppercase font-semibold text-[20px] py-4"
           >visualnews pro</span
         >
-        <div class="hidden lt:flex flex-wrap justify-start items-center gap-4">
+        <div class="hidden lt:flex flex-wrap justify-start items-center gap-5">
           <a
             href="#"
             class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
@@ -239,15 +239,15 @@
               } transition ease-in-out duration-300`"
             >
               <div
-                :class="`p-4 bg-white z-10 absolute bottom-0 right-0 translate-y-[100%] shadow-[0_0_5px_2px_rgba(0,0,0,0.2)] justify-center items-center flex`"
+                :class="`p-4 bg-white z-10 absolute bottom-0 right-0 translate-y-[100%] shadow-[0_0_5px_2px_rgba(0,0,0,0.2)] justify-center items-center flex max-w-[305px]`"
               >
-                <div class="relative text-sky-800">
+                <div class="relative text-sky-800 max-w-[305px] h-[36px] leading-[36px]">
                   <input
                     ref="input"
                     v-model="searchValue"
                     type="text"
                     placeholder="Search for"
-                    class="w-auto pl-4 pr-8 py-2 bg-gray-100 outline-none placeholder-[#222] text-[#222]"
+                    class="w-full h-full pl-[15px] pr-[31px] py-[7px] bg-[#f5f5f5] outline-none placeholder-[#222] text-[#222] text-[14px]"
                   />
                   <div
                     v-if="searchValue != ''"
@@ -257,7 +257,7 @@
                     <iconClose :width="16" :height="16" />
                   </div>
                 </div>
-                <button class="bg-sky-500 text-white font-semibold px-4 py-2">
+                <button class="bg-sky-500 text-white font-semibold px-[15px] leading-[36px]">
                   Search
                 </button>
               </div>

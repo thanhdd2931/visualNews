@@ -8,7 +8,7 @@
     <div class="lt:container lt:mx-auto lt:px-0 mb:px-[10px]">
       <!-- Left -->
       <!-- before marketing -->
-      <div class="tb:grid tb:grid-cols-4 tb:gap-6 lt:gap:8">
+      <div class="tb:grid tb:grid-cols-4 tb:gap-6 lt:gap-8">
         <div class="col-span-3">
           <!-- main -->
           <div class="tb:grid tb:grid-cols-10 tb:gap-8 mb-7">

@@ -48,21 +48,21 @@
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/girl-600x400.jpg" alt="image">
             </div>
-            <p class="font-semibold leading-[1.2]">TikTok’s latest trending beauty filter returns users to their younger selves</p>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">TikTok’s latest trending beauty filter returns users to their younger selves</a>
           </div>
 
           <div  class="w-full">
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/glashes-600x400.jpg" alt="image">
             </div>
-            <p class="font-semibold leading-[1.2]">The best smart glasses to buy now, according to experts</p>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">The best smart glasses to buy now, according to experts</a>
           </div>
 
           <div  class="w-full">
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/shirt-600x400.jpg" alt="image">
             </div>
-            <p class="font-semibold leading-[1.2]">The best wrinkle-free travel clothes to pack for your summer vacation</p>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">The best wrinkle-free travel clothes to pack for your summer vacation</a>
           </div>
           
         </div>
@@ -76,19 +76,19 @@
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/solar-panels_EFYB8VJXNT-600x400.jpg" alt="image">
             </div>
-            <p class="font-semibold leading-[1.2]">Why Apple Vision Pro’s $3,499 Price Makes More Sense Than You Think</p>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">Why Apple Vision Pro’s $3,499 Price Makes More Sense Than You Think</a>
           </div>
           <div  class="w-full">
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/ins-600x400.jpg" alt="image">
             </div>
-            <p class="font-semibold leading-[1.2]">9 Ways to Engage Your Customers With Instagram Highlights</p>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">9 Ways to Engage Your Customers With Instagram Highlights</a>
           </div>
           <div  class="w-full">
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/girl-600x400.jpg" alt="image">
             </div>
-            <p class="font-semibold leading-[1.2]">TikTok’s latest trending beauty filter returns users to their younger selves</p>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">TikTok’s latest trending beauty filter returns users to their younger selves</a>
           </div>
         </div>
       </div>
