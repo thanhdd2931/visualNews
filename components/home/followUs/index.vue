@@ -2,7 +2,7 @@
 <template>
   <div>
     <slot></slot>
-    <div class="mb:flex mb:justify-between mb:items-center mb:flex-wrap">
+    <div class="mb:flex mb:justify-between mb:items-center mb:flex-wrap gap-x-2">
       <div
         class="flex justify-start items-center text-[#1da1f2] text-base gap-2 mt-4 cursor-pointer hover:scale-110 transition-all"
       >

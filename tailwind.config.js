@@ -10,6 +10,8 @@ module.exports = {
   theme: {
     extend: {
       screens: {
+        'llt': '1260px',
+        // => @media (min-width: 1260px) { ... }
         'lt': '960px',
         // => @media (min-width: 960px) { ... }
         'tb': '780px',

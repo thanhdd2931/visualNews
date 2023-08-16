@@ -2,7 +2,7 @@
 <template>
   <div class="bg-black text-white mt-[35px] py-[35px] text-[14px]">
     <div
-      class="lt:container lt:px-0 mb:px-[33px] mx-auto grid tb:grid-cols-4 mb:grid-cols-1 tb:gap-6 border-b-[0.5px] border-gray-500 pb-8"
+      class="llt:max-w-[1240px] llt:px-0 mb:px-[33px] mx-auto grid tb:grid-cols-4 mb:grid-cols-1 tb:gap-6 border-b-[0.5px] border-gray-500 pb-8"
     >
       <!-- about -->
       <div class="flex flex-col items-start gap-y-6 mb:mb-8">
@@ -48,21 +48,21 @@
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/girl-600x400.jpg" alt="image">
             </div>
-            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">TikTok’s latest trending beauty filter returns users to their younger selves</a>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500 text-[13px]">TikTok’s latest trending beauty filter returns users to their younger selves</a>
           </div>
 
           <div  class="w-full">
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/glashes-600x400.jpg" alt="image">
             </div>
-            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">The best smart glasses to buy now, according to experts</a>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500 text-[13px]">The best smart glasses to buy now, according to experts</a>
           </div>
 
           <div  class="w-full">
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/shirt-600x400.jpg" alt="image">
             </div>
-            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">The best wrinkle-free travel clothes to pack for your summer vacation</a>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500 text-[13px]">The best wrinkle-free travel clothes to pack for your summer vacation</a>
           </div>
           
         </div>
@@ -76,19 +76,19 @@
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/solar-panels_EFYB8VJXNT-600x400.jpg" alt="image">
             </div>
-            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">Why Apple Vision Pro’s $3,499 Price Makes More Sense Than You Think</a>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500 text-[13px]">Why Apple Vision Pro’s $3,499 Price Makes More Sense Than You Think</a>
           </div>
           <div  class="w-full">
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/ins-600x400.jpg" alt="image">
             </div>
-            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">9 Ways to Engage Your Customers With Instagram Highlights</a>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500 text-[13px]">9 Ways to Engage Your Customers With Instagram Highlights</a>
           </div>
           <div  class="w-full">
             <div class="float-left mr-[15px]">
               <img class="object-cover w-[90px] h-[60px]" src="https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/girl-600x400.jpg" alt="image">
             </div>
-            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500">TikTok’s latest trending beauty filter returns users to their younger selves</a>
+            <a href="#" class="font-semibold leading-[1.2] block hover:text-sky-500 text-[13px]">TikTok’s latest trending beauty filter returns users to their younger selves</a>
           </div>
         </div>
       </div>
@@ -96,61 +96,61 @@
       <!-- support -->
       <div class="flex flex-col items-start mb:mb-8">
         <p class="uppercase font-bold pb-[20px]">support</p>
-        <p class="py-1 text-[15px] cursor-pointer hover:text-sky-600">
-          Corporate
+        <p class="mb-[10px] text-[14px] cursor-pointer hover:text-sky-600">
+          Corporate Membership
         </p>
-        <p class="py-1 text-[15px] cursor-pointer hover:text-sky-600">
-          Pblic your book
+        <p class="mb-[10px] text-[14px] cursor-pointer hover:text-sky-600">
+          Publish Your Book
         </p>
-        <p class="py-1 text-[15px] cursor-pointer hover:text-sky-600">
-          Submit An Acticle
+        <p class="mb-[10px] text-[14px] cursor-pointer hover:text-sky-600">
+          Submit An Article
         </p>
-        <p class="py-1 text-[15px] cursor-pointer hover:text-sky-600">
+        <p class="mb-[10px] text-[14px] cursor-pointer hover:text-sky-600">
           Advertise
         </p>
-        <p class="py-1 text-[15px] cursor-pointer hover:text-sky-600">
-          Communiti Forum
+        <p class="mb-[10px] text-[14px] cursor-pointer hover:text-sky-600">
+          Community Forum
         </p>
-        <p class="py-1 text-[15px] cursor-pointer hover:text-sky-600">
-          Private Policy
+        <p class="mb-[10px] text-[14px] cursor-pointer hover:text-sky-600">
+          Privacy Policy
         </p>
       </div>
     </div>
 
-    <div class="mt-5 flex flex-col justify-center items-center">
-      <div class="flex flex-wrap justify-center items-center gap-x-5 gap-y-2 mb-4">
+    <div class="mt-5 flex flex-col justify-center items-center gap-8">
+      <div class="flex flex-wrap justify-center items-center gap-x-5 gap-y-2 font-[500]">
         <a
           href="#"
-          class="uppercase text-[12px] cursor-pointer hover:text-sky-600"
+          class="uppercase text-[11px] cursor-pointer hover:text-sky-600"
           >about</a
         >
         <a
           href="#"
-          class="uppercase text-[12px] cursor-pointer hover:text-sky-600"
+          class="uppercase text-[11px] cursor-pointer hover:text-sky-600"
           >contact</a
         >
         <a
           href="#"
-          class="uppercase text-[12px] cursor-pointer hover:text-sky-600"
+          class="uppercase text-[11px] cursor-pointer hover:text-sky-600"
           >fullwidth page</a
         >
         <a
           href="#"
-          class="uppercase text-[12px] cursor-pointer hover:text-sky-600"
+          class="uppercase text-[11px] cursor-pointer hover:text-sky-600"
           >submit acticle</a
         >
         <a
           href="#"
-          class="uppercase text-[12px] cursor-pointer hover:text-sky-600"
+          class="uppercase text-[11px] cursor-pointer hover:text-sky-600"
           >buy theme</a
         >
       </div>
-      <div class="text-center">
-        <span class="uppercase text-[12px] cursor-pointer hover:text-sky-600"
+      <div class="text-center text-[11px]">
+        <span class="uppercase text-[11px] cursor-pointer hover:text-sky-600"
           >wordpress theme</span
         >
         BY
-        <span class="uppercase text-[12px] cursor-pointer hover:text-sky-600"
+        <span class="uppercase text-[11px] cursor-pointer hover:text-sky-600"
           >wpenjoy</span
         >
       </div>

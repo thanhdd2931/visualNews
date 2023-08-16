@@ -5,7 +5,7 @@
       class="text-[12px] text-white bg-gradient-to-r from-[#0c91e3] to-[#8d4cce]"
     >
       <div
-        class="lt:container mmb:w-full lt:px-0 mb:px-[10px] flex justify-between items-center mx-auto h-full"
+        class="llt:max-w-[1240px] mmb:w-full llt:px-0 mb:px-[10px] flex justify-between items-center mx-auto h-full"
       >
         <!-- icon MENU -->
         <div
@@ -36,7 +36,7 @@
           <a href="#" class="font-medium block py-[10px]">Buy Theme</a>
         </div>
 
-        <div class="flex justify-center items-center gap-4 text-white">
+        <div class="flex justify-center items-center gap-[10px] text-white">
           <!-- twitter -->
           <div class="hover:scale-110 cursor-pointer">
             <iconTwitter :width="16" :height="16" />
@@ -72,8 +72,8 @@
     >
       <div class="flex justify-center items-center gap-5 col-span-3">
         <div class="flex-1">
-          <p class="text-[#222] text-base font-bold text-right">John Doe</p>
-          <p class="text-[#999] text-[12px] justify-end text-right">
+          <p class="text-black text-base font-semibold text-right">John Doe</p>
+          <p class="text-[#999] text-[12px] justify-end text-right font-normal">
             If you want to make your dreams come true, the first thing you have
             to do is wake up.
           </p>
@@ -92,7 +92,7 @@
         <span class="font-semibold text-[21.8124px] text-[#222] mb-2"
           >VISUALNEWSPRO
         </span>
-        <span class="text-[17px] text-red-600">WP NEWSPAPER THEME</span>
+        <span class="text-[17px] text-[#cf2c2e] font-medium">WP NEWSPAPER THEME</span>
       </div>
 
       <div class="flex justify-center items-center gap-5 col-span-3">
@@ -105,8 +105,8 @@
         </div>
 
         <div class="flex-1">
-          <p class="text-[#222] text-base font-bold text-start">Marry Taylor</p>
-          <p class="text-[#999] text-[12px] justify-start text-start">
+          <p class="text-black text-base font-semibold text-start">Marry Taylor</p>
+          <p class="text-[#999] text-[12px] justify-start text-start font-normal">
             You can have anything you want if you are willing to give up
             everything you have.
           </p>
@@ -116,10 +116,10 @@
 
     <!-- navbar -->
     <div
-      class="shadow-[0_5px_10px_-5px_rgba(0,0,0,0.3)] lt:sticky top-0 right-0 left-0 bg-white mb-6 z-10"
+      class="shadow-[0_5px_10px_-5px_rgba(0,0,0,0.3)] lt:sticky top-0 right-0 left-0 bg-white mb-6 z-10 py-[5px]"
     >
       <div
-        class="lt:container lt:px-0 mb:px-[10px] mx-auto flex justify-between items-center relative"
+        class="llt:max-w-[1240px] llt:px-0 mb:px-[10px] mx-auto flex justify-between items-center relative"
       >
         <span
           class="mb:block lt:hidden uppercase font-semibold text-[20px] py-4"
@@ -128,17 +128,17 @@
         <div class="hidden lt:flex flex-wrap justify-start items-center gap-5">
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >HOME</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >ADVERTISING</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600 flex justify-center items-center relative group"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600 flex justify-center items-center relative group"
           >
             <span>BLOGGING</span>
             <iconArrowDown :width="12" :height="12" />
@@ -156,52 +156,52 @@
           </a>
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >BUSINESS</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >FASHION</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >FOOD</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >LIFESTYLE</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >MARKETING</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >SEO</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >SOCIAL MEDIA</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >TECH</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >TRAVEL</a
           >
           <a
             href="#"
-            class="font-semibold text-[#222] text-[13px] py-[14px] hover:text-sky-600"
+            class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
             >WEB DESIGN</a
           >
         </div>
@@ -233,10 +233,12 @@
             >
               <iconClose v-if="isShowSearch == true" :width="16" :height="16" />
             </div>
+
+            <!-- search box -->
             <div
               :class="`block overflow-hidden ${
                 isShowSearch == true ? 'opacity-100 h-auto' : 'opacity-0 h-0'
-              } transition ease-in-out duration-300`"
+              }`"
             >
               <div
                 :class="`p-4 bg-white z-10 absolute bottom-0 right-0 translate-y-[100%] shadow-[0_0_5px_2px_rgba(0,0,0,0.2)] justify-center items-center flex max-w-[305px]`"
@@ -247,7 +249,7 @@
                     v-model="searchValue"
                     type="text"
                     placeholder="Search for"
-                    class="w-full h-full pl-[15px] pr-[31px] py-[7px] bg-[#f5f5f5] outline-none placeholder-[#222] text-[#222] text-[14px]"
+                    class="block w-full h-full pl-[15px] pr-[31px] py-[7px] bg-[#f5f5f5] outline-none placeholder-[#222] text-[#222] text-[14px]"
                   />
                   <div
                     v-if="searchValue != ''"

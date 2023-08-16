@@ -10,7 +10,7 @@
                   ? 'w-[90px] h-[90px] shrink-0'
                   : 'w-[150px] h-[100px] shrink-0'
               }`
-            : `${maxHeight} overflow-hidden`
+            : `pb-[10px] ${maxHeight} overflow-hidden`
         "
       >
         <img
@@ -38,8 +38,8 @@
           href="#"
           :class="
             isDerectionRow
-              ? 'uppercase text-[11px] leading-5 font-semibold inline-block text-[#999] hover:text-[#222]'
-              : 'uppercase text-[11px] leading-5 font-semibold block pt-1 text-[#999] hover:text-[#222]'
+              ? 'uppercase text-[11px] font-semibold inline-block text-[#999] hover:text-[#222]'
+              : 'uppercase text-[11px] font-semibold inline-block text-[#999] hover:text-[#222]'
           "
         >
           {{ author }}
@@ -50,11 +50,11 @@
           :class="
             isDerectionRow == true
               ? `${
-                  isFashion ? '' : 'leading-5 font-bold'
+                  isFashion ? 'leading-[1.2]' : 'leading-5 font-bold'
                 } line-clamp-3 hover:text-sky-500`
-              : `leading-5 font-bold hover:text-sky-500 pt-2 ${
+              : `leading-5 font-bold hover:text-sky-500 ${
                   backGround != '' ? 'text-[18px]' : ''
-                } `
+                } mt-[10px] block `
           "
         >
           {{ title }}
