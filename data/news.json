@@ -1,0 +1,701 @@
+[
+    {
+        "category": [
+            "advertising"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/social.jpg",
+        "title": "Reddit communities go private to protest pricing plan for apps",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "reddit-communities-go-private-to-protest-pricing-plan-for-apps"
+    },
+    {
+        "category": [
+            "advertising",
+            "blogging",
+            "marketing",
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/ins-600x400.jpg",
+        "title": "9 Ways to Engage Your Customers With Instagram Highlights",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "9-ways-to-engage-your-customers-with-instagram-highlights"
+    },
+    {
+        "category": [
+            "advertising",
+            "blogging",
+            "marketing",
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/google-600x400.jpg",
+        "title": "The 10-Step Guide to Creating a Profitable AdWords Campaign",
+        "author": "John Doe",
+        "link": "the-10-step-guide-to-creating-a-profitable-adwords-campaign",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+    },
+    {
+        "category": [
+            "advertising",
+            "food",
+            "lifestyle",
+            "marketing",
+            "social media",
+            "seo",
+            "travel",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/typing-working-600x400.jpeg",
+        "title": "Best Business Process Management Software",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "best-business-process-management-software"
+    },
+    {
+        "category": [
+            "advertising",
+            "blogging",
+            "food",
+            "lifestyle",
+            "marketing",
+            "social media",
+            "seo",
+            "travel",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/family-bathroom-600x400.jpeg",
+        "title": "How to Use Amazon Attribution For Ad Campaigns",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "how-to-use-amazon-attribution-for-ad-campaigns"
+    },
+    {
+        "category": [
+            "advertising",
+            "business",
+            "food",
+            "lifestyle",
+            "social media",
+            "seo",
+            "travel",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/office-supplies-600x400.jpeg",
+        "title": "How to Create the Perfect H1 Tag for SEO",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "how-to-create-the-perfect-h1-tag-for-seo"
+    },
+    {
+        "category": [
+            "advertising",
+            "blogging",
+            "business",
+            "fashion",
+            "food",
+            "lifestyle",
+            "social media",
+            "travel",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/office-supplies2-600x400.jpeg",
+        "title": "10 Great Testimonial Examples From Landing Pages",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "10-great-testimonial-examples-from-landing-pages"
+    },
+    {
+        "category": [
+            "advertising",
+            "blogging",
+            "business",
+            "fashion",
+            "food",
+            "lifestyle",
+            "marketing",
+            "seo",
+            "social media",
+            "travel",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/colored-pastels-600x400.jpeg",
+        "title": "How to Convert Blog Readers Into Customers",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "how-to-convert-blog-readers-into-customers"
+    },
+    {
+        "category": [
+            "advertising",
+            "blogging",
+            "business",
+            "fashion",
+            "food",
+            "lifestyle",
+            "marketing",
+            "seo",
+            "social media",
+            "travel",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/apple-iphone-600x400.jpeg",
+        "title": "How to Use the LinkedIn Marketplace as a Freelancer",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "how-to-use-the-linkedin-marketplace-as-a-freelancer"
+    },
+    {
+        "category": [
+            "advertising",
+            "blogging",
+            "business",
+            "fashion",
+            "food",
+            "lifestyle",
+            "marketing",
+            "seo",
+            "social media",
+            "travel",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/business-working-600x400.jpeg",
+        "title": "How to Use Google’s Call-Only Ads to Send Profits Soaring",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "how-to-use-google’s-call-only-ads-to-send-profits-soaring"
+    },
+    {
+        "category": [
+            "advertising",
+            "blogging",
+            "business",
+            "fashion",
+            "food",
+            "lifestyle",
+            "marketing",
+            "news",
+            "seo",
+            "social media",
+            "technology",
+            "travel",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/workspace-office-600x400.jpeg",
+        "title": "4 Reasons Why You Should Get AdWords Certified",
+        "author": "John Doe",
+        "date": "June 15, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "4-reasons-why-you-should-get-adwords-certified"
+    },
+    {
+        "category": [
+            "blogging",
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/solar-panels_EFYB8VJXNT.jpg",
+        "title": "Why Apple Vision Pro’s $3,499 Price Makes More Sense Than You Think",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "why-apple-vision-pro’s-$3,499-price-makes-more-sense-than-you-think"
+    },
+    {
+        "category": [
+            "blogging",
+            "marketing",
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/apple.jpg",
+        "title": "The 6 biggest iOS 17 features that Apple stole from Android Digital Trends",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "the-6-biggest-ios-17-features-that-apple-stole-from-android-digital-trends"
+    },
+    {
+        "category": [
+            "blogging",
+            "marketing",
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/architecture-building.jpeg",
+        "title": "A Starter Guide to Google Ads Manager Accounts",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "a-starter-guide-to-google-ads-manager-accounts"
+    },
+    {
+        "category": [
+            "blogging",
+            "marketing",
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/grass-field-600x400.jpeg",
+        "title": "What Are Influencer Engagement Marketplaces (and How to Use)",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "what-are-influencer-engagement-marketplaces-(and-how-to-use)"
+    },
+    {
+        "category": [
+            "blogging",
+            "marketing",
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/saulo-mohana-600x400.jpg",
+        "title": "The job market enters a new phase as the Great Resignation ends",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "the-job-market-enters-a-new-phase-as-the-great-resignation-ends"
+    },
+    {
+        "category": [
+            "business"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/adem-ay-Tk9m_HP4rgQ-600x400.jpg",
+        "title": "Musk is no longer the CEO of Twitter. Linda Yaccarino officially starts in role",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "musk-is-no-longer-the-ceo-of-twitter.-linda-yaccarino-officially-starts-in-role"
+    },
+    {
+        "category": [
+            "business"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/jason-goodman-600x400.jpg",
+        "title": "Deciding what to do when your employer changes the rules on remote work",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "deciding-what-to-do-when-your-employer-changes-the-rules-on-remote-work"
+    },
+    {
+        "category": [
+            "business"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/google-deepmind-600x400.jpg",
+        "title": "42% of CEOs say AI could destroy humanity in five to ten years",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "42%-of-ceos-say-ai-could-destroy-humanity-in-five-to-ten-years"
+    },
+    {
+        "category": [
+            "business"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/bady-abbas-c4XoMGxfsVU-600x400.jpg",
+        "title": "Why Hong Kong can’t afford to keep its currency pegged to the US dollar",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "why-hong-kong-can’t-afford-to-keep-its-currency-pegged-to-the-us-dollar"
+    },
+    {
+        "category": [
+            "fashion"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/glashes.jpg",
+        "title": "The best smart glasses to buy now, according to experts",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "the-best-smart-glasses-to-buy-now,-according-to-experts"
+    },
+    {
+        "category": [
+            "fashion"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/shirt-600x400.jpg",
+        "title": "The best wrinkle-free travel clothes to pack for your summer vacation",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "the-best-wrinkle-free-travel-clothes-to-pack-for-your-summer-vacation"
+    },
+    {
+        "category": [
+            "fashion"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/man-600x400.jpg",
+        "title": "The 23 best men’s shorts for the summer, according to style experts",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "the-23-best-men’s-shorts-for-the-summer,-according-to-style-experts"
+    },
+    {
+        "category": [
+            "fashion"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/adidas-600x400.jpg",
+        "title": "Adidas vs. Hoka: We put these favorite running shoes to the test",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "adidas-vs.-hoka:-we-put-these-favorite-running-shoes-to-the-test"
+    },
+    {
+        "category": [
+            "fashion",
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/computer-office_XGXORJWZIX-600x400.jpg",
+        "title": "The New Age of Hiring: AI Is Changing the Game for Job Seekers",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "the-new-age-of-hiring:-ai-is-changing-the-game-for-job-seekers"
+    },
+    {
+        "category": [
+            "fashion",
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/iphone-device_KRMOSAYCZ4-600x400.jpg",
+        "title": "Don’t Install the iOS 17 Developer Beta on Your iPhone. Here’s Why",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "don’t-install-the-ios-17-developer-beta-on-your-iphone.-here’s-why"
+    },
+    {
+        "category": [
+            "food"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/pizza-slice_OM0PRGTSEV-600x400.jpg",
+        "title": "The German couple who moved to Italy and opened a pizza restaurant",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "the-german-couple-who-moved-to-italy-and-opened-a-pizza-restaurant"
+    },
+    {
+        "category": [
+            "food"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/noodles-cooking_30DIV2QY3M-600x400.jpg",
+        "title": "Tokyo ramen shop bans customers from using their phones while eating",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "tokyo-ramen-shop-bans-customers-from-using-their-phones-while-eating"
+    },
+    {
+        "category": [
+            "food"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/paella-rice_T3JTA2VN26-600x400.jpg",
+        "title": "Best rice dishes: 20 delicious specialties from around the world",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "best-rice-dishes:-20-delicious-specialties-from-around-the-world"
+    },
+    {
+        "category": [
+            "food"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/couple-food_20HXQ0Y5YI.jpg",
+        "title": "This savory Mexican dish made with vanilla is a first for Eva Longoria",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "this-savory-mexican-dish-made-with-vanilla-is-a-first-for-eva-longoria"
+    },
+    {
+        "category": [
+            "lifestyle"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/girl-600x400.jpg",
+        "title": "TikTok’s latest trending beauty filter returns users to their younger selves",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "tiktok’s-latest-trending-beauty-filter-returns-users-to-their-younger-selves"
+    },
+    {
+        "category": [
+            "lifestyle"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/gucci-600x400.jpg",
+        "title": "Gucci Visions: An exhibit that takes you on a futuristic journey into the past",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "gucci-visions:-an-exhibit-that-takes-you-on-a-futuristic-journey-into-the-past"
+    },
+    {
+        "category": [
+            "lifestyle"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/omega-600x400.jpg",
+        "title": "Omega says ex-employees responsible for $3 million fake Speedmaster watch",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "omega-says-ex-employees-responsible-for-$3-million-fake-speedmaster-watch"
+    },
+    {
+        "category": [
+            "marketing",
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/education-business-600x400.jpeg",
+        "title": "SEO Copywriting: How to Write Content For People and Optimize For Google",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "seo-copywriting:-how-to-write-content-for-people-and-optimize-for-google"
+    },
+    {
+        "category": [
+            "marketing",
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/coastal-landscape-600x400.jpeg",
+        "title": "25 Marketing Books You Should Be Reading",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "25-marketing-books-you-should-be-reading"
+    },
+    {
+        "category": [
+            "marketing",
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/sun-nature-600x400.jpeg",
+        "title": "How to Use Thought Leadership Marketing With Paid Ads",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "how-to-use-thought-leadership-marketing-with-paid-ads"
+    },
+    {
+        "category": [
+            "marketing",
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/Brick-Wall-building-600x400.jpeg",
+        "title": "How to Use LinkedIn Insights in an Actionable Way",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "how-to-use-linkedin-insights-in-an-actionable-way"
+    },
+    {
+        "category": [
+            "marketing",
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/analytics-charts-600x400.jpeg",
+        "title": "10 Key Strategies That You Must Learn From Apple’s Marketing",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "10-key-strategies-that-you-must-learn-from-apple’s-marketing"
+    },
+    {
+        "category": [
+            "seo",
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/camera-object_GJ8ZDV9GVE-600x400.jpg",
+        "title": "5 Things I Won’t Be Doing in Apple’s $3,500 Vision Pro Headset",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "5-things-i-won’t-be-doing-in-apple’s-$3,500-vision-pro-headset"
+    },
+    {
+        "category": [
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/wood-texture-600x400.jpeg",
+        "title": "What is IaaS? How Does it Affect Your e-Commerce Site?",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "what-is-iaas?-how-does-it-affect-your-e-commerce-site?"
+    },
+    {
+        "category": [
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/bird-perched-600x400.jpeg",
+        "title": "Blog SEO: How to Search Engine Optimize Your Blog Content",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "blog-seo:-how-to-search-engine-optimize-your-blog-content"
+    },
+    {
+        "category": [
+            "seo",
+            "web design"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2021/04/board-room-business-600x400.jpeg",
+        "title": "YouTube SEO: 25 Tactics for Getting More Views, Subscribers, and Traffic",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "youtube-seo:-25-tactics-for-getting-more-views,-subscribers,-and-traffic"
+    },
+    {
+        "category": [
+            "social media"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/facebook-600x400.jpg",
+        "title": "Georgia man sues Facebook over losing account access and wins",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "georgia-man-sues-facebook-over-losing-account-access-and-wins"
+    },
+    {
+        "category": [
+            "social media"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/youtube-app-600x400.jpg",
+        "title": "YouTube will stop removing false claims about 2020 election fraud",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "youtube-will-stop-removing-false-claims-about-2020-election-fraud"
+    },
+    {
+        "category": [
+            "social media"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/twitter-600x400.jpeg",
+        "title": "Some Twitter users say they’ve been locked out of their accounts",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "some-twitter-users-say-they’ve-been-locked-out-of-their-accounts"
+    },
+    {
+        "category": [
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/motivation-hustle_FKT0RM1QHW-600x400.jpg",
+        "title": "Toyota claims its future EVs will have a range over 600 miles",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "toyota-claims-its-future-evs-will-have-a-range-over-600-miles"
+    },
+    {
+        "category": [
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/iphone-blue_7RJZFHBGPT-600x400.jpg",
+        "title": "Your iPhone and Other Apple Products Are About to Get Easier to Use",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "your-iphone-and-other-apple-products-are-about-to-get-easier-to-use"
+    },
+    {
+        "category": [
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/browsing-smartphone_48PPXWVY5M-600x400.jpg",
+        "title": "iPhone 15: All the Major Rumors on Apple’s Next iPhone",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "iphone-15:-all-the-major-rumors-on-apple’s-next-iphone"
+    },
+    {
+        "category": [
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/mac-laptop_QUQXLZK1WL-600x400.jpg",
+        "title": "Apple MacBook Air 15-Inch Review: The Best Portable Big Display Choice",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "apple-macbook-air-15-inch-review:-the-best-portable-big-display-choice"
+    },
+    {
+        "category": [
+            "technology"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/laptop-work_8Q2MXCDVMY-600x400.jpg",
+        "title": "I’ve Been Using Google’s New AI Search. Here’s What I’ve Learned",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "i’ve-been-using-google’s-new-ai-search.-here’s-what-i’ve-learned"
+    },
+    {
+        "category": [
+            "travel"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/airplane-travel_J5AQI42431-600x400.jpg",
+        "title": "World’s Best 25 Airlines for 2023 Revealed by Airline Ratings",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "world’s-best-25-airlines-for-2023-revealed-by-airline-ratings"
+    },
+    {
+        "category": [
+            "travel"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/beautiful-ocean_XLSPFYQGAK-600x400.jpg",
+        "title": "The Italian beaches putting a daily cap on visitors this summer",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "the-italian-beaches-putting-a-daily-cap-on-visitors-this-summer"
+    },
+    {
+        "category": [
+            "travel"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/water-canal_HZ0FDEESSC-600x400.jpg",
+        "title": "Venice authorities discover why canal turned fluorescent green",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "venice-authorities-discover-why-canal-turned-fluorescent-green"
+    },
+    {
+        "category": [
+            "travel"
+        ],
+        "image": "https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/sunrise-sunset_XSTO5645BM-600x400.jpg",
+        "title": "Manhattanhenge: Where to see New York City’s special sunset show",
+        "author": "John Doe",
+        "date": "June 14, 2023",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "link": "manhattanhenge:-where-to-see-new-york-city’s-special-sunset-show"
+    }
+]

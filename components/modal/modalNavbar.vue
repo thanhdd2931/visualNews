@@ -7,29 +7,26 @@
         <iconsClose />
       </div>
       <div class="pt-[56px] flex flex-col gap-y-4">
-        <a href="#" class="font-semibold text-[#222] text-[13px]">HOME</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">ADVERTISING</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">BLOGGING</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">ADVERTISING</a>
-        
+        <nuxt-link to="/" class="font-semibold text-[#222] text-[13px]">HOME</nuxt-link>
+        <nuxt-link to="/category/advertising" class="font-semibold text-[#222] text-[13px]">ADVERTISING</nuxt-link>
         <div>
-          <a href="#" class="font-semibold text-[#222] text-[13px]">BLOGGING</a>
+          <nuxt-link to="/category/blogging" class="font-semibold text-[#222] text-[13px]">BLOGGING</nuxt-link>
           <div class="pt-4 px-8">
-            <a href="#" class="block font-semibold text-[#222] text-[13px]">SUB MENU 1</a>
-            <a href="#" class="block font-semibold text-[#222] text-[13px]">SUB MENU 2</a>
-            <a href="#" class="block font-semibold text-[#222] text-[13px]">SUB MENU 3</a>
+            <nuxt-link to="/category/blogging" class="block font-semibold text-[#222] text-[13px]">SUB MENU 1</nuxt-link>
+            <nuxt-link to="/category/blogging" class="block font-semibold text-[#222] text-[13px]">SUB MENU 2</nuxt-link>
+            <nuxt-link to="/category/blogging" class="block font-semibold text-[#222] text-[13px]">SUB MENU 3</nuxt-link>
           </div>
         </div>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">BUSINESS</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">FASHION</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">FOOD</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">LIFESTYLE</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">MARKETING</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">SEO</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">SOCIAL MEDIA</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">TECH</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">TRAVEL</a>
-        <a href="#" class="font-semibold text-[#222] text-[13px]">WEB DESIGN</a>
+        <nuxt-link to="/category/business" class="font-semibold text-[#222] text-[13px]">BUSINESS</nuxt-link>
+        <nuxt-link to="/category/fashion" class="font-semibold text-[#222] text-[13px]">FASHION</nuxt-link>
+        <nuxt-link to="/category/food" class="font-semibold text-[#222] text-[13px]">FOOD</nuxt-link>
+        <nuxt-link to="/category/lifestyle" class="font-semibold text-[#222] text-[13px]">LIFESTYLE</nuxt-link>
+        <nuxt-link to="/category/marketing" class="font-semibold text-[#222] text-[13px]">MARKETING</nuxt-link>
+        <nuxt-link to="/category/seo" class="font-semibold text-[#222] text-[13px]">SEO</nuxt-link>
+        <nuxt-link to="/category/social-media" class="font-semibold text-[#222] text-[13px]">SOCIAL MEDIA</nuxt-link>
+        <nuxt-link to="/category/tech" class="font-semibold text-[#222] text-[13px]">TECH</nuxt-link>
+        <nuxt-link to="/category/travel" class="font-semibold text-[#222] text-[13px]">TRAVEL</nuxt-link>
+        <nuxt-link to="/category/web-design" class="font-semibold text-[#222] text-[13px]">WEB DESIGN</nuxt-link>
       </div>
     </div>
   </div>

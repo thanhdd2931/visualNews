@@ -4,6 +4,7 @@
     <slot></slot>
     <div class="pb-5 pt-7 border-b">
       <itemNews
+        link="reddit-communities-go-private-to-protest-pricing-plan-for-apps"
         :image="'https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/social-600x400.jpg'"
         :title="'Reddit communities go private to protest pricing plan for apps'"
         author=""
@@ -14,6 +15,7 @@
     </div>
     <div class="py-5 border-b">
       <itemNews
+        link="9-ways-to-engage-your-customers-with-instagram-highlights"
         :image="'https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/ins-600x400.jpg'"
         :title="'9 Ways to Engage Your Customers With Instagram Highlights'"
         author=""
@@ -24,6 +26,7 @@
     </div>
     <div class="py-5">
       <itemNews
+        link="the-10-step-guide-to-creating-a-profitable-adwords-campaign"
         :image="'https://demo.wpenjoy.com/visualnews-pro/wp-content/uploads/sites/64/2023/06/google-600x400.jpg'"
         :title="'The 10-Step Guide to Creating a Profitable AdWords Campaign'"
         author=""

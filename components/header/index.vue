@@ -1,7 +1,7 @@
 <!-- eslint-disable vue/multi-word-component-names -->
 <template>
   <div class="contents">
-    <div
+    <header
       class="text-[12px] text-white bg-gradient-to-r from-[#0c91e3] to-[#8d4cce]"
     >
       <div
@@ -16,10 +16,14 @@
         </div>
 
         <div class="lt:flex mb:hidden justify-start items-center gap-4">
-          <a href="#" class="font-medium block py-[10px]">About</a>
-          <a href="#" class="font-medium block py-[10px]">Contact</a>
-          <a
-            href="#"
+          <nuxt-link to="/about" class="font-medium block py-[10px]"
+            >About</nuxt-link
+          >
+          <nuxt-link to="/contact" class="font-medium block py-[10px]"
+            >Contact</nuxt-link
+          >
+          <nuxt-link
+            to="/full-width-page"
             class="font-medium py-[10px] flex justify-center items-center relative group"
           >
             <span>Full Width Page</span>
@@ -27,13 +31,23 @@
             <div
               class="hidden group-hover:block absolute bottom-0 left-0 px-4 bg-white text-[#222] shadow-md translate-y-[100%] min-w-[200px]"
             >
-              <p class="py-[10px] border-b">Sub Menu 1</p>
-              <p class="py-[10px] border-b">Sub Menu 2</p>
-              <p class="py-[10px]">Sub Menu 3</p>
+              <nuxt-link to="/full-width-page" class="block py-[10px] border-b"
+                >Sub Menu 1</nuxt-link
+              >
+              <nuxt-link to="/full-width-page" class="block py-[10px] border-b"
+                >Sub Menu 2</nuxt-link
+              >
+              <nuxt-link to="/full-width-page" class="block py-[10px]"
+                >Sub Menu 3</nuxt-link
+              >
             </div>
-          </a>
-          <a href="#" class="font-medium block py-[10px]">Submit Article</a>
-          <a href="#" class="font-medium block py-[10px]">Buy Theme</a>
+          </nuxt-link>
+          <nuxt-link to="/submit-artical" class="font-medium block py-[10px]"
+            >Submit Article</nuxt-link
+          >
+          <nuxt-link to="#" class="font-medium block py-[10px]"
+            >Buy Theme</nuxt-link
+          >
         </div>
 
         <div class="flex justify-center items-center gap-[10px] text-white">
@@ -63,7 +77,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </header>
 
     <!-- title -->
 
@@ -92,7 +106,9 @@
         <span class="font-semibold text-[21.8124px] text-[#222] mb-2"
           >VISUALNEWSPRO
         </span>
-        <span class="text-[17px] text-[#cf2c2e] font-medium">WP NEWSPAPER THEME</span>
+        <span class="text-[17px] text-[#cf2c2e] font-medium"
+          >WP NEWSPAPER THEME</span
+        >
       </div>
 
       <div class="flex justify-center items-center gap-5 col-span-3">
@@ -105,8 +121,12 @@
         </div>
 
         <div class="flex-1">
-          <p class="text-black text-base font-semibold text-start">Marry Taylor</p>
-          <p class="text-[#999] text-[12px] justify-start text-start font-normal">
+          <p class="text-black text-base font-semibold text-start">
+            Marry Taylor
+          </p>
+          <p
+            class="text-[#999] text-[12px] justify-start text-start font-normal"
+          >
             You can have anything you want if you are willing to give up
             everything you have.
           </p>
@@ -115,7 +135,7 @@
     </div>
 
     <!-- navbar -->
-    <div
+    <nav
       class="shadow-[0_5px_10px_-5px_rgba(0,0,0,0.3)] lt:sticky top-0 right-0 left-0 bg-white mb-6 z-10 py-[5px]"
     >
       <div
@@ -126,18 +146,18 @@
           >visualnews pro</span
         >
         <div class="hidden lt:flex flex-wrap justify-start items-center gap-5">
-          <a
-            href="#"
+          <nuxt-link
+            to="/"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >HOME</a
-          >
-          <a
-            href="#"
+            >HOME
+          </nuxt-link>
+          <nuxt-link
+            to="/category/advertising"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >ADVERTISING</a
-          >
-          <a
-            href="#"
+            >ADVERTISING
+          </nuxt-link>
+          <nuxt-link
+            to="/category/blogging"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600 flex justify-center items-center relative group"
           >
             <span>BLOGGING</span>
@@ -153,57 +173,57 @@
               </p>
               <p class="py-[10px] hover:text-sky-600 uppercase">Sub Menu 3</p>
             </div>
-          </a>
-          <a
-            href="#"
+          </nuxt-link>
+          <nuxt-link
+            to="/category/business"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >BUSINESS</a
-          >
-          <a
-            href="#"
+            >BUSINESS
+          </nuxt-link>
+          <nuxt-link
+            to="/category/fashion"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >FASHION</a
-          >
-          <a
-            href="#"
+            >FASHION
+          </nuxt-link>
+          <nuxt-link
+            to="/category/food"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >FOOD</a
-          >
-          <a
-            href="#"
+            >FOOD
+          </nuxt-link>
+          <nuxt-link
+            to="/category/lifestyle"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >LIFESTYLE</a
-          >
-          <a
-            href="#"
+            >LIFESTYLE
+          </nuxt-link>
+          <nuxt-link
+            to="/category/marketing"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >MARKETING</a
-          >
-          <a
-            href="#"
+            >MARKETING
+          </nuxt-link>
+          <nuxt-link
+            to="/category/seo"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >SEO</a
-          >
-          <a
-            href="#"
+            >SEO
+          </nuxt-link>
+          <nuxt-link
+            to="/category/social-media"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >SOCIAL MEDIA</a
-          >
-          <a
-            href="#"
+            >SOCIAL MEDIA
+          </nuxt-link>
+          <nuxt-link
+            to="/category/tech"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >TECH</a
-          >
-          <a
-            href="#"
+            >TECH
+          </nuxt-link>
+          <nuxt-link
+            to="/category/travel"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >TRAVEL</a
-          >
-          <a
-            href="#"
+            >TRAVEL
+          </nuxt-link>
+          <nuxt-link
+            to="/category/web-design"
             class="font-semibold text-[#222] text-[13px] py-[10px] hover:text-sky-600"
-            >WEB DESIGN</a
-          >
+            >WEB DESIGN
+          </nuxt-link>
         </div>
 
         <div class="text-black flex items-center gap-5">
@@ -235,15 +255,13 @@
             </div>
 
             <!-- search box -->
-            <div
-              :class="`block overflow-hidden ${
-                isShowSearch == true ? 'opacity-100 h-auto' : 'opacity-0 h-0'
-              }`"
-            >
+            <div :class="`${isShowSearch == true ? 'block' : 'hidden'}`">
               <div
                 :class="`p-4 bg-white z-10 absolute bottom-0 right-0 translate-y-[100%] shadow-[0_0_5px_2px_rgba(0,0,0,0.2)] justify-center items-center flex max-w-[305px]`"
               >
-                <div class="relative text-sky-800 max-w-[305px] h-[36px] leading-[36px]">
+                <div
+                  class="relative text-sky-800 max-w-[305px] h-[36px] leading-[36px]"
+                >
                   <input
                     ref="input"
                     v-model="searchValue"
@@ -259,7 +277,9 @@
                     <iconClose :width="16" :height="16" />
                   </div>
                 </div>
-                <button class="bg-sky-500 text-white font-semibold px-[15px] leading-[36px]">
+                <button
+                  class="bg-sky-500 text-white font-semibold px-[15px] leading-[36px]"
+                >
                   Search
                 </button>
               </div>
@@ -267,7 +287,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </nav>
 
     <!-- modal -->
     <modalHeader

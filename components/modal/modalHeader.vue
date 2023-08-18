@@ -7,18 +7,18 @@
         <iconsClose />
       </div>
       <div class="pt-[56px] flex flex-col gap-y-4">
-        <a href="#">About</a>
-        <a href="#">Contact</a>
+        <nuxt-link to="/about">About</nuxt-link>
+        <nuxt-link to="/contact">Contact</nuxt-link>
         <div>
-          <a href="#">Full Width Page</a>
+          <nuxt-link to="/full-width-page">Full Width Page</nuxt-link>
           <div class="pt-4 px-8">
-            <a href="#" class="block">Sub menu 1</a>
-            <a href="#" class="block">Sub menu 2</a>
-            <a href="#" class="block">Sub menu 3</a>
+            <nuxt-link to="/full-width-page" class="block">Sub menu 1</nuxt-link>
+            <nuxt-link to="/full-width-page" class="block">Sub menu 2</nuxt-link>
+            <nuxt-link to="/full-width-page" class="block">Sub menu 3</nuxt-link>
           </div>
         </div>
-        <a href="#">Submit Article</a>
-        <a href="#">Buy Theme</a>
+        <nuxt-link to="/submit-artical">Submit Article</nuxt-link>
+        <nuxt-link to="#">Buy Theme</nuxt-link>
       </div>
     </div>
   </div>

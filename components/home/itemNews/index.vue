@@ -1,8 +1,8 @@
 <template>
   <div>
     <div :class="getClass()">
-      <a
-        href="#"
+      <nuxt-link
+        :to="`/news/${link}`"
         :class="
           isDerectionRow
             ? `${
@@ -22,31 +22,31 @@
           :src="image"
           alt="image"
         />
-      </a>
+      </nuxt-link>
 
       <div
         :class="
           isDerectionRow
             ? `${isFashion ? '' : ''}`
-            : `${isShowAuthor == false ? 'lt:pt-4 pt-2' : ''} ${
+            : `${isShowAuthor == false ? 'lt:pt-4 mb:pt-2' : ''} ${
                 backGround != '' ? 'p-5' : ''
               }`
         "
       >
-        <a
+        <nuxt-link
           v-if="isShowAuthor == true"
-          href="#"
+          :to="`category/${linkCategory}`"
           :class="
             isDerectionRow
               ? 'uppercase text-[11px] font-semibold inline-block text-[#999] hover:text-[#222]'
               : 'uppercase text-[11px] font-semibold inline-block text-[#999] hover:text-[#222]'
           "
         >
-          {{ author }}
-        </a>
+          {{ category }}
+        </nuxt-link>
 
-        <a
-          href="#"
+        <nuxt-link
+          :to="`/news/${link}`"
           :class="
             isDerectionRow == true
               ? `${
@@ -58,7 +58,7 @@
           "
         >
           {{ title }}
-        </a>
+        </nuxt-link>
       </div>
     </div>
   </div>
@@ -68,7 +68,7 @@
 export default {
   name: 'ItemNews',
   props: {
-    author: {
+    category: {
       type: String,
       required: false,
       default: '',
@@ -76,6 +76,16 @@ export default {
     title: {
       type: String,
       required: true,
+    },
+    link: {
+      type: String,
+      default: '#',
+      required: false,
+    },
+    linkCategory: {
+      type: String,
+      required: false,
+      default: '#'
     },
     image: {
       type: String,
